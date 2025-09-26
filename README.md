@@ -1,4 +1,4 @@
-<img width="600" height="144" alt="image" src="https://github.com/user-attachments/assets/8e2973b7-31f4-4485-bd4f-f0704490bd14" /><img width="2443" height="358" alt="image" src="https://github.com/user-attachments/assets/157393d0-8e60-4653-a7ec-bfb527e08df2" /># 🚦 Traffic Congestion Prediction using Crowdsourced Data  
+# 🚦 Traffic Congestion Prediction using Crowdsourced Data  
 
 ## 📌 Overview  
 This research project focuses on developing a machine learning–based model for **traffic congestion prediction** using **crowdsourced navigation data** (Waze).  
